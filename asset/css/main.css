@@ -1,0 +1,15 @@
+p{
+	font-size: 800%;
+	background-color: red;
+	border-radius: 200px;
+	color: white;
+}
+
+.operator{
+	font-size: 200%;
+
+}
+
+a:hover{
+    text-decoration: none;
+}
